@@ -6,6 +6,8 @@ for i in range(1,n+1):
         temp /= 2
         
     if temp != 1:
+        
+        print(i)
         break
      
     print(i)
